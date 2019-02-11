@@ -116,6 +116,7 @@ theme: Wikitten
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   #repo: https://github.com/oamsocool/oamsocool.github.io.git
-  repo: git@github.com:oamsocool/oamsocool.github.io.git
+  #repo: git@github.com:oamsocool/oamsocool.github.io.git
+  repo: git@cool.github.com:oamsocool/oamsocool.github.io.git
   type: git
   branch: master
